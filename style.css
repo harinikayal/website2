@@ -1,0 +1,40 @@
+body{
+    background-image: url(pngtree-beautiful-technology-website-business-poster-background-template-picture-image_1107136.jpg);
+    background-size:cover;
+    text-align:center;
+    position: relative;
+    
+}
+fieldset{
+    position: relative;
+}
+h1{
+
+font-size: xx-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:black;
+justify-content: center;
+padding: 10px;
+text-align: center;
+margin: 25px;
+
+}
+h2{
+    font-size:x-large;
+    color:white;
+    padding: 10px;
+}
+
+form{
+    color:black ;
+    font-size: x-large;
+    font-weight: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position : relative;
+    width  : 800px;
+  height : 800px;
+  margin :0 auto;
+  padding: 4 em;
+  box-sizing: border-box;
+  display:inline-block;
+}
